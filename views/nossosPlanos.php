@@ -206,6 +206,7 @@
   <?php include("views/modalPlanos/noggin.php")?>
   <?php include("views/modalPlanos/paramount.php")?>
   <?php include("views/modalPlanos/mumo.php")?>
+  <?php include("views/modalPlanos/qualifica.php")?>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124636700-3">

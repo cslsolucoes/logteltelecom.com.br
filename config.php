@@ -1,2 +1,2 @@
 <?php
-$uri = '/site';
+$uri = '/logteltelecom.com.br';

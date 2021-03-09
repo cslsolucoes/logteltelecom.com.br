@@ -11,7 +11,13 @@
         <a class="" data-toggle="modal" data-target="#modal_paramount">
             <img src="<?= $uri ?>/node_modules/img/planos/paramount-mini.png" loading="lazy"  class="btn-planos ">
         </a>
+
+        <div class="">
+        <a class="" data-toggle="modal" data-target="#modal_qualifica">
+            <img src="<?= $uri ?>/node_modules/img/planos/qualifica.png"  class="btn-planos ">
+        </a>
         <a class="" data-toggle="modal" data-target="#modal_mumo">
             <img src="<?= $uri ?>/node_modules/img/planos/mumo.png"  class="btn-planos ">
         </a>
+        </div>
 </div>
