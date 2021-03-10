@@ -74,11 +74,6 @@
                                 <hr>
                                 <?php include("views/comboSimples.php")?>
                             </div>
-                            <div class="card-footer-planos text-center">
-                                <hr>
-                                <spam class="cardtitle0">*Válido no desconto de pontualidade, após vencimento R$ 109,90 + taxas
-                                *Receba o dobro da velocidade contratada por 12 meses</spam>
-                        </div> 
                         </div>  
                     </div>
                     <div class="object-vertical col-xl-3 col-md-12 mb-4" >
