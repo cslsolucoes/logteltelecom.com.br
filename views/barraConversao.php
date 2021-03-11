@@ -22,13 +22,13 @@
         </div>
     </div>
   </div>
-  
 
   <div class="sz-chat ">
     <spam>Posso Ajudar?</spam>
   </div>
- 
- <div class="bg-primary barra-conversao active  d-xl-none">
+
+<!-- 
+  <div class="bg-primary barra-conversao active d-none d-xl-block">
     <div class="container">
       <div class="form-row text-center">
         <a class="col col-4" href="https://api.whatsapp.com/send?phone=5561981956666&text=Ol%C3%A1%2C%20gostaria%20de%20Contratar%20um%20Combo%20da%20Logtel.%20Poderia%20me%20informar%20como%20fa%C3%A7o%3F" >
