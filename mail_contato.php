@@ -13,7 +13,7 @@
     }
   }
 
-	$mensagem = "<b>FORMULÁRIO DE VENDAS - 	LOGTEL</b> <br /> <br />";
+	$mensagem = "<b>FORMULÁRIO CONTATO SITE - 	LOGTEL</b> <br /> <br />";
 	$mensagem.= "<b>Nome:</b> ".$_POST['nome']." <br />";
 	$mensagem.= "<b>E-mail:</b> ".$_POST['email']." <br />";
 	$mensagem.= "<b>Telefone:</b> ". $_POST['telefone']."  <br />";
@@ -26,7 +26,7 @@
 
 	
 	
-	EnviarEmail('Contato via site', 'Formulario de vendas','contato@logtel.net.br', 'contato@logtel.net.br', $mensagem);
+	EnviarEmail('FORMULARIO FALE CONOCSCO', 'Formulario CONTATO SITE','contato@logtel.net.br', 'contato@logtel.net.br', $mensagem);
 	
     echo "
     <script type='text/javascript'>
