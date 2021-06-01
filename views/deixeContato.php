@@ -14,7 +14,7 @@
       <label class="custom-control-label" for="100">100Mb</label>
     </div>
     <div class="custom-control custom-radio custom-control-inline">
-      <input type="radio" id="240" value="240MEGA" name="plano-combo" class="custom-control-input">
+      <input type="radio" id="240" value="300MEGA" name="plano-combo" class="custom-control-input">
       <label class="custom-control-label" for="240" selected>240Mb</label>
     </div>
     <div class="custom-control custom-radio custom-control-inline">

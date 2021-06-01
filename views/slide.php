@@ -10,8 +10,8 @@
           <div class="col-md-4 offset-md-8 text-center text-black mt-5">
               <spam class="cardtitle3">COMBO IDEAL </spam></br>
               <spam class="text-black"> Contrate </spam>
-              <spam class="cardtitle5-tachado"> 120 MEGA</spam><spam class="cardtitle5"> *</spam><br>
-              <spam class="text-black"> e receba o</spam><spam class="cardtitle5"> DOBRO</spam><br><spam class="cardtitle2"> 240 MEGA </spam>
+              <spam class="cardtitle5-tachado"> 150 MEGA</spam><spam class="cardtitle5"> *</spam><br>
+              <spam class="text-black"> e receba o</spam><spam class="cardtitle5"> DOBRO</spam><br><spam class="cardtitle2"> 300 MEGA </spam>
               <div class="text-right 	text-top text-bottom mr-5">
                   <i class="fa fa-plus fa-lg" aria-hidden="true"></i>
                   <a href="http://www.logtelplay.com.br/"  >

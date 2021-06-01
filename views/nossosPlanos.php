@@ -19,9 +19,9 @@
                                 <div class="teste2 mx-auto d-block">
                                     <spam class="cardtitle3"> COMBO IDEAL</spam></br><br>
                                     <spam class="cardtitle4"> Contrate </spam>
-                                    <spam class="cardtitle5-tachado"> 120 MEGA</spam><spam class="cardtitle5"> *</spam><br>
+                                    <spam class="cardtitle5-tachado"> 150 MEGA</spam><spam class="cardtitle5"> *</spam><br>
                                     <spam class="cardtitle4"> e receba o</spam><spam class="cardtitle5"> DOBRO</spam><br><br>
-                                    <spam class="cardtitle2"> 240 MEGA </spam>
+                                    <spam class="cardtitle2"> 300 MEGA </spam>
                                     <div class="mt-3">
                                         R$<spam class="cardtitle3"> 119,90*</spam>/por mês</spam><br>
                                         <div class="card-legend align-bottom">
@@ -33,7 +33,7 @@
                             </div>
                             
                             <div class="card-body text-primary card-body-planos">
-                                <spam><i class="fa fa-check fa-lg" aria-hidden="true"></i> 120 MEGA <spam class="cardtitle5"> Upload</spam><br>
+                                <spam><i class="fa fa-check fa-lg" aria-hidden="true"></i> 150 MEGA <spam class="cardtitle5"> Upload</spam><br>
                                 <hr>
                                 <a>
                                     <img src="<?= $uri ?>/node_modules/img/planos/wifi-mini2.png"  class="btn-planos-home-service" >
@@ -120,9 +120,9 @@
                                 <div class="teste2 mx-auto d-block ">
                                     <spam class="cardtitle3"> COMBO IDEAL</spam></br><br>
                                     <spam class="cardtitle4"> Contrate </spam>
-                                    <spam class="cardtitle5-tachado"> 120 MEGA</spam><spam class="cardtitle5"> *</spam><br>
+                                    <spam class="cardtitle5-tachado"> 150 MEGA</spam><spam class="cardtitle5"> *</spam><br>
                                     <spam class="cardtitle4"> e receba o</spam><spam class="cardtitle5"> DOBRO</spam><br><br>
-                                    <spam class="cardtitle2"> 240 MEGA </spam>
+                                    <spam class="cardtitle2"> 300 MEGA </spam>
                                     <div class="mt-3">
                                         R$<spam class="cardtitle3"> 119,90*</spam>/por mês</spam><br>
                                         <div class="card-legend align-bottom">
@@ -133,7 +133,7 @@
                                 </div>
                             </div>
                             <div class="card-body text-primary card-body-planos">
-                                <spam><i class="fa fa-check fa-lg" aria-hidden="true"></i> 120 MEGA <spam class="cardtitle5"> Upload</spam><br>
+                                <spam><i class="fa fa-check fa-lg" aria-hidden="true"></i> 150 MEGA <spam class="cardtitle5"> Upload</spam><br>
                                 <hr>
                                 <a>
                                     <img src="<?= $uri ?>/node_modules/img/planos/wifi-mini2.png"  class="btn-planos-home-service" >

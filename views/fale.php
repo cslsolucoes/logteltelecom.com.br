@@ -36,7 +36,7 @@
                         </div>
                         <div class="custom-control custom-radio custom-control-inline">
                         <input type="radio" id="240" name="plano-fale-conosco" class="custom-control-input">
-                        <label class="custom-control-label" for="240">240MB</label>
+                        <label class="custom-control-label" for="240">300MB</label>
                         </div>
                     </div>
                     <div class="form-group mt-3">
